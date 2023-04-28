@@ -1,0 +1,11 @@
+li {
+    color: rgb(155,30,30);
+    background-color: hsl(30, 100%, 75%);
+    text-align: center;
+}
+
+h1 {
+    color:aqua;
+    background-color: black;
+    text-align: center;
+}
